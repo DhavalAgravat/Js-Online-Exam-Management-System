@@ -1,0 +1,125 @@
+
+[
+  {
+    "id": "1",
+    "title": " 'OS' computer abbreviation usually means",
+    "type": "radio",
+    "options": [
+      "Order of Significance",
+      "Open Software",
+      "Operating System",
+      "Optical Sensor"
+    ],
+    "answer": "Operating System",
+    "mark": 5
+  },
+  {
+    "id": "2",
+    "title": "Full Form Of CSS",
+    "type": "radio",
+    "options": [
+      "Creating Style Sheet",
+      "Casscading Style Sheet",
+      "Creative Style Sheet",
+      "Creative Style Sheet"
+    ],
+    "answer":"Casscading Style Sheet",
+    "mark": 5
+  },
+  {
+    "id": "3",
+    "title": "Which one of the followings are  browsers?",
+    "type": "checkbox",
+    "options": [
+      "Brave",
+      "Edge",
+      "Chrome",
+      "Tor"
+    ],
+    "answer":4,
+    "mark": 10
+  },
+  {
+    "id": "4",
+    "title": " HTML allows us to create three different kinds of ________",
+    "type": "radio",
+    "options": [
+      " Forms",
+      "Headers",
+      "Lists",
+      "Paragraphs"
+    ],
+    "answer":"Lists",
+    "mark": 5
+  },
+  {
+    "id": "5",
+    "title": "Write Full Form Of Html",
+    "type": "text",
+    "answer": "hypertext markup language",
+    "mark": 10
+  },
+  {
+    "id": "6",
+    "title": "Is Tony Stark IS Iron-Man ????? ",
+    "type": "radio",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer":"Yes",
+    "mark": 15
+  },
+  {
+    "id": "7",
+    "title": " Which Of The Following Array Methods Mutates Original Array ? ",
+    "type": "radio",
+    "options": [
+      "Map",
+      "Filter",
+      "ForEach",
+      "ForOf"
+    ],
+    "answer":"ForEach",
+    "mark": 5
+  },
+  {
+    "id": "8",
+    "title": "... Is Known As ______________ In Javascript.  ",
+    "type": "radio",
+    "options": [
+      "Spread Operator",
+      "Rest Parameter",
+      "Both",
+      "None"
+    ],
+    "answer":"Both",
+    "mark": 10
+  },
+  {
+    "id": "9",
+    "title": " Which Of the Following Is Not CSS Framework",
+    "type": "radio",
+    "options": [
+      "BootStrap",
+      "Tailwind",
+      "Bulma",
+      "SaaS"
+    ],
+    "answer":"SaaS",
+    "mark": 10
+  },
+  {
+    "id": "10",
+    "title": "Which tag is used for hyperlinks in html",
+    "type": "radio",
+    "options": [
+      "link",
+      "a",
+      "iframe",
+      "src"
+    ],
+    "answer":"a",
+    "mark": 5
+  }
+]

@@ -1,0 +1,112 @@
+/* Style for the button */
+
+body{
+    overflow-x: hidden;
+    background: linear-gradient(90deg, #c5e8ca 0%, #d9e7ff 100%);
+  
+}
+
+.create-exam-btn{
+    display: block;
+    margin: 20px auto;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 12px 24px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .create-exam-btn:hover {
+    background-color: #3e8e41;
+  }
+  
+  /* Style for the table */
+  table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #ddd;
+  }
+  
+  th {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  td {
+    background-color: #f2f2f2;
+  }
+  
+  td button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 8px 16px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  td button:hover {
+    background-color: #3e8e41;
+  }
+  
+  /* Add some vertical spacing between rows */
+  tbody tr + tr {
+    margin-top: 20px;
+  }
+
+  #heading {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 36px;
+    color: #4F4557;
+  }
+  
+  .hidden {
+    display: none;
+  }
+
+  .sub-heading {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 30px;
+    color: #6D5D6E;
+  }
+
+  .header {
+    background-color: #F4EEE0;
+    height: fit-content;
+  }
+
+  .result-box {
+    color: #F4EEE0!important;
+    background-color: #6D5D6E;
+    height: fit-content;
+    border-radius: 10px;
+  }
+
+  .box {
+    background-color:#393646 ;
+    color: #F4EEE0;
+    padding: 40px!important;
+  }
+
+  .a-box {
+    background-color:#6D5D6E ;
+    color: #F4EEE0;
+    padding: 10px;
+    border-radius: 10px;
+   /* width:fit-content!important ;  */
+  }
+
+  .modal-create-exam {
+
+  }
